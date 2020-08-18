@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yutakatay&count_private=true&show_icons=true&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yutakatay&count_private=true&show_icons=true&show_icons=true&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yutakatay&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yutakatay&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark)
 
 <!--
 **yutakatay/yutakatay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
