@@ -17,7 +17,7 @@
     <img alt="homepage" width="30px" src="https://image.flaticon.com/icons/svg/565/565527.svg" />
   </a>
   <a href="https://twitter.com/yutakatay">
-    <img alt="twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+    <img alt="twitter" width="30px" src="https://image.flaticon.com/icons/svg/123/123728.svg" />
   </a>
   <a href="https://qiita.com/yutakatay">
     <img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" />
