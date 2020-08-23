@@ -16,6 +16,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_PROJECTS: "False"
+#       - uses: athul/waka-readme@master
+#         with:
+#           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
