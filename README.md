@@ -54,6 +54,8 @@
 
 #### Analysis
 
+<img height="150" src="https://github.com/yutakatay/yutakatay/blob/master/images/stat.svg" alt="Alternative Text"/>
+
 <details>
   <summary>Other Statics</summary>
   <!--START_SECTION:waka-->
