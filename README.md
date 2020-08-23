@@ -39,6 +39,8 @@
 
 - Favorite Languages: Rust
 - Editor: Neovim
+- Shell: zsh
+- Terminal: Alacritty, tmux
 - OS: ArchLinux(i3-gaps/sway)
 - PC: Thinkpad X1 Carbon
 - Keyboard: HHKB hybrid
