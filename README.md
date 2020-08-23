@@ -14,19 +14,19 @@
 
 <p align="left"> 
   <a href="https://yutakatay.github.io/">
-    <img align="left" alt="homepage" width="30px" src="https://image.flaticon.com/icons/svg/565/565527.svg" />
+    <img alt="homepage" width="30px" src="https://image.flaticon.com/icons/svg/565/565527.svg" />
   </a>
   <a href="https://twitter.com/yutakatay">
-    <img align="left" alt="twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+    <img alt="twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
   </a>
   <a href="https://qiita.com/yutakatay">
-    <img align="left" alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" />
+    <img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" />
   </a>
   <a href="https://dev.to/yutakatay" target="blank">
-    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="yutakatay" height="30" width="30" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="yutakatay" height="30" width="30" />
   </a>
   <a href="https://stackoverflow.com/users/yutakatay" target="blank">
-    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="yutakatay" height="30" width="30" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="yutakatay" height="30" width="30" />
   </a>
 </p>
 
