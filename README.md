@@ -54,8 +54,6 @@
 
 <details>
   <summary>Other Statics</summary>
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
 </details>
 -->
 
