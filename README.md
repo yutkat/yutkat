@@ -54,10 +54,8 @@
 
 #### Analysis
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+<details>
+  <summary>Other Statics</summary>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </details>
-
