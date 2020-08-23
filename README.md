@@ -7,6 +7,9 @@
   <a href="http://twitter.com/yutakatay">
     <img height="20" src="https://img.shields.io/twitter/follow/yutakatay?label=Twitter&logo=twitter&style=flat" />
   </a>
+  <a href="https://github.com/yutakatay">
+    <img height="20" src="https://img.shields.io/github/followers/yutakatay?label=follow&logo=github&style=flat" />
+  </a>
 </p>
 
 <p align="left"> 
@@ -28,6 +31,13 @@
   <br/><br/>
 </p>
 
+<p align="left"> 
+  <img align="left" alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutakatay&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img align="left" alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yutakatay&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+</p>
+
+#### Development Environment
+
 - Lnaguage: Rust
 - Editor: Neovim
 - OS: ArchLinux(i3-gaps/sway)
@@ -35,12 +45,6 @@
 - Keyboard: HHKB hybrid
 - Mouse: SlimBlade
 - Smartphone: Pixel4a
-
-<p align="left"> 
-  <img align="left" alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutakatay&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-  <img align="left" alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yutakatay&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-</p>
-
 
 #### Some Tools I Use
 
