@@ -54,8 +54,8 @@
 
 #### Analysis
 
-<!-- waka-box start -->
-<!-- waka-box end -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <details>
   <summary>Other Statics</summary>
