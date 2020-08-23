@@ -55,78 +55,9 @@
 #### Analysis
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 2,027 Contributions in the Year 2020
- > 
-> 📦 5.7 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 21 Public Repositories
- > 
-> 🔑 0 Private Repository 
- > 
-**I'm an Early 🐤** 
-
 ```text
-🌞 Morning    50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.75% 
-🌆 Daytime    133 commits    █████████░░░░░░░░░░░░░░░░   39.23% 
-🌃 Evening    119 commits    ████████░░░░░░░░░░░░░░░░░   35.1% 
-🌙 Night      37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.91%
-
+No Activity tracked this Week
 ```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       59 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.4% 
-Tuesday      53 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.63% 
-Wednesday    31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.14% 
-Thursday     29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.55% 
-Friday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.14% 
-Saturday     46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.57% 
-Sunday       90 commits     ██████░░░░░░░░░░░░░░░░░░░   26.55%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Vim script** 
-
-```text
-Vim script               6 repos             █████████████░░░░░░░░░░░░   54.55% 
-Shell                    2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Rust                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-AutoHotkey               1 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/yutakatay/yutakatay/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 </details>
 
