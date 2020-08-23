@@ -1,6 +1,13 @@
 ### 👋 Hi! I'm yutakatay
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yutakatay" alt="yutakatay" /> </p>
+<p align="left"> 
+  <a href="https://github.com/yutakatay/yutakatay/">
+    <img src="https://komarev.com/ghpvc/?username=yutakatay" alt="yutakatay" />
+  </a>
+  <a href="http://twitter.com/yutakatay">
+    <img height="20" src="https://img.shields.io/twitter/follow/yutakatay?label=Twitter&logo=twitter&style=flat" />
+  </a>
+</p>
 
 <a href="https://yutakatay.github.io/">
   <img align="left" alt="homepage" width="30px" src="https://image.flaticon.com/icons/svg/565/565527.svg" />
@@ -9,7 +16,7 @@
   <img align="left" alt="twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
 <a href="https://qiita.com/yutakatay">
-  <img align="left" alt="qiita" width="30px" src="https://pbs.twimg.com/profile_images/1201406146822557696/ewFFvnAa_400x400.jpg" />
+  <img align="left" alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" />
 </a>
 <a href="https://dev.to/yutakatay" target="blank">
   <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="yutakatay" height="30" width="30" />
@@ -18,6 +25,15 @@
   <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="yutakatay" height="30" width="30" />
 </a>
 <br/><br/>
+
+- Lnaguage: Rust
+- Editor: Neovim
+- OS: ArchLinux(i3-gaps/sway)
+- PC: Thinkpad X1 Carbon
+- Keyboard: HHKB hybrid
+- Mouse: SlimBlade
+- Smartphone: Pixel4a
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yutakatay&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yutakatay&count_private=true&show_icons=true&show_icons=true&theme=onedark)
