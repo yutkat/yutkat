@@ -34,10 +34,8 @@
 - Mouse: SlimBlade
 - Smartphone: Pixel4a
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yutakatay&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yutakatay&count_private=true&show_icons=true&show_icons=true&theme=onedark)
-
+<img align="left" alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutakatay&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+<img align="left" alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yutakatay&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 
 
 #### Some Tools I Use
