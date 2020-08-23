@@ -28,12 +28,11 @@
   <a href="https://stackoverflow.com/users/yutakatay" target="blank">
     <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="yutakatay" height="30" width="30" />
   </a>
-  <br/><br/>
 </p>
 
 <p align="left"> 
-  <img align="left" alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutakatay&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-  <img align="left" alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yutakatay&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutakatay&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yutakatay&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
 #### Development Environment
