@@ -18,7 +18,6 @@
   </a>
 </p>
 
-
 <p align="left"> 
   <a href="https://yutakatay.github.io/">
     <img alt="homepage" width="30px" src="https://image.flaticon.com/icons/svg/565/565527.svg" />
@@ -41,6 +40,9 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutakatay&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yutakatay&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yutakatay)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 #### Development Environment
 
