@@ -63,8 +63,6 @@
 
 #### Analysis
 
-![wakatime](https://github.com/yutakatay/yutakatay/workflows/Waka%20Readme/badge.svg)
-
 <img height="150" src="https://github.com/yutakatay/yutakatay/blob/master/images/stat.svg" alt="Alternative Text"/>
 
 <details>
@@ -144,3 +142,6 @@ AutoHotkey               1 repos             ██░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 </details>
+
+
+![wakatime](https://github.com/yutakatay/yutakatay/workflows/Waka%20Readme/badge.svg)
