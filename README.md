@@ -10,7 +10,10 @@
   <a href="https://github.com/yutakatay">
     <img height="20" src="https://img.shields.io/github/followers/yutakatay?label=follow&logo=github&style=flat" />
   </a>
-    <a href="http://qiita.com/yutakatay">
+  <a href="https://www.reddit.com/user/yutakatay">
+    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/yutakatay?logo=reddit&style=flat" />
+  </a>
+  <a href="http://qiita.com/yutakatay">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yutakatay/posts.svg" />
   </a>
   <a href="http://qiita.com/yutakatay">
