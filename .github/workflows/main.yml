@@ -3,6 +3,7 @@ name: Waka Readme
 on:
   repository_dispatch:
     types: [test_trigger]
+  workflow_dispatch:
   schedule:
     # Runs at 4am JST
     - cron: '30 19 * * *'
