@@ -26,7 +26,6 @@ jobs:
 #       - uses: athul/waka-readme@master
 #         with:
 #           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-      - uses: actions/checkout@v2
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
