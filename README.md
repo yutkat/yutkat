@@ -48,6 +48,9 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yutakatay)](https://github.com/ryo-ma/github-profile-trophy)
+[![](https://raw.githubusercontent.com/yutakatay/yutakatay/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/yutakatay/yutakatay/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/yutakatay/yutakatay/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 #### Development Environment
@@ -76,9 +79,9 @@
   <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 2,161 Contributions in the Year 2020
+> 🏆 2,153 Contributions in the Year 2020
  > 
-> 📦 6.2 kB Used in Github's Storage 
+> 📦 6.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,22 +92,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.97% 
-🌆 Daytime    161 commits    ███████████░░░░░░░░░░░░░░   44.97% 
-🌃 Evening    105 commits    ███████░░░░░░░░░░░░░░░░░░   29.33% 
-🌙 Night      42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.73%
+🌞 Morning    52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.77% 
+🌆 Daytime    152 commits    ██████████░░░░░░░░░░░░░░░   43.18% 
+🌃 Evening    106 commits    ███████░░░░░░░░░░░░░░░░░░   30.11% 
+🌙 Night      42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.93%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       59 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.48% 
-Tuesday      62 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.32% 
-Wednesday    49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.69% 
-Thursday     44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.29% 
-Friday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.66% 
-Saturday     37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
-Sunday       76 commits     █████░░░░░░░░░░░░░░░░░░░░   21.23%
+Monday       61 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.33% 
+Tuesday      62 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.61% 
+Wednesday    49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.92% 
+Thursday     44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Friday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.81% 
+Saturday     37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.51% 
+Sunday       68 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.32%
 
 ```
 
