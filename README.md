@@ -40,6 +40,9 @@
   <a href="https://stackoverflow.com/users/yutakatay" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="yutakatay" height="30" width="30" />
   </a>
+  <a href="https://www.quora.com/profile/Yutakatay" target="blank">
+    <img src="https://www.flaticon.com/svg/static/icons/svg/732/732105.svg" alt="yutakatay" height="30" width="30" />
+  </a>
 </p>
 
 <p align="left"> 
