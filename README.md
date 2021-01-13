@@ -16,6 +16,15 @@
   <a href="https://stackoverflow.com/users/5720201/yutakatay">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
+  <a href="https://zenn.dev/yutakatay">
+    <img height="20" src="https://zenn-badge.ganariya.vercel.app/yutakatay/liked" />
+  </a>
+  <a href="https://zenn.dev/yutakatay">
+    <img height="20" src="https://zenn-badge.ganariya.vercel.app/yutakatay/followers" />
+  </a>
+  <a href="https://zenn.dev/yutakatay">
+    <img height="20" src="https://zenn-badge.ganariya.vercel.app/yutakatay/articles" />
+  </a>
   <a href="http://qiita.com/yutakatay">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yutakatay/posts.svg" />
   </a>
