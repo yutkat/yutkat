@@ -20,10 +20,10 @@
     <img height="20" src="https://zenn-badge.ganariya.vercel.app/yutakatay/liked" />
   </a>
   <a href="https://zenn.dev/yutakatay">
-    <img height="20" src="https://zenn-badge.ganariya.vercel.app/yutkat/followers" />
+    <img height="20" src="https://zenn-badge.ganariya.vercel.app/yutakatay/followers" />
   </a>
   <a href="https://zenn.dev/yutakatay">
-    <img height="20" src="https://zenn-badge.ganariya.vercel.app/yutkat/articles" />
+    <img height="20" src="https://zenn-badge.ganariya.vercel.app/yutakatay/articles" />
   </a>
   <a href="http://qiita.com/yutkat">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/posts.svg" />
