@@ -29,6 +29,10 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.GH_TOKEN }}
 #       - uses: athul/waka-readme@master
 #         with:
 #           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
