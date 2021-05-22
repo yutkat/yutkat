@@ -163,4 +163,4 @@ AutoHotkey               1 repo              █░░░░░░░░░░�
 </details>
 
 
-![wakatime](https://github.com/yutkat/yutkat/workflows/Waka%20Readme/badge.svg)
+[![Metrics](https://github.com/yutkat/yutkat/actions/workflows/main.yml/badge.svg)](https://github.com/yutkat/yutkat/actions/workflows/main.yml)
