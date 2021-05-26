@@ -17,13 +17,13 @@
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
   <a href="https://zenn.dev/yutakatay">
-    <img height="20" src="https://zenn-badge.ganariya.vercel.app/yutakatay/liked" />
+    <img height="20" src="https://zenn.badge.nikaera.com/s/yutakatay/likes" />
   </a>
   <a href="https://zenn.dev/yutakatay">
-    <img height="20" src="https://zenn-badge.ganariya.vercel.app/yutakatay/followers" />
+    <img height="20" src="https://zenn.badge.nikaera.com/s/yutakatay/followers" />
   </a>
   <a href="https://zenn.dev/yutakatay">
-    <img height="20" src="https://zenn-badge.ganariya.vercel.app/yutakatay/articles" />
+    <img height="20" src="https://zenn.badge.nikaera.com/s/yutakatay/articles" />
   </a>
   <a href="http://qiita.com/yutkat">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/posts.svg" />
