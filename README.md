@@ -86,7 +86,7 @@
 <details>
   <summary>Other Statics</summary>
   <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+<b>🐱 My Github Data</b> 
 
 > 🏆 1,183 Contributions in the Year 2021
  > 
