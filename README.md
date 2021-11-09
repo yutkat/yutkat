@@ -35,10 +35,10 @@
 
 <p align="left"> 
   <a href="https://yutkat.github.io/">
-    <img alt="homepage" width="30px" src="https://image.flaticon.com/icons/svg/565/565527.svg" />
+    <img alt="homepage" width="30px" src="https://simpleicons.org/icons/homeassistantcommunitystore.svg" />
   </a>
   <a href="https://twitter.com/yutkat">
-    <img alt="twitter" width="30px" src="https://image.flaticon.com/icons/svg/123/123728.svg" />
+    <img alt="twitter" width="30px" src="https://simpleicons.org/icons/twitter.svg" />
   </a>
   <a href="https://qiita.com/yutkat">
     <img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" />
@@ -50,7 +50,7 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="yutkat" height="30" width="30" />
   </a>
   <a href="https://www.quora.com/profile/Yutkat" target="blank">
-    <img src="https://www.flaticon.com/svg/static/icons/svg/732/732105.svg" alt="yutkat" height="30" width="30" />
+    <img src="https://simpleicons.org/icons/quora.svg" alt="yutkat" height="30" width="30" />
   </a>
 </p>
 
