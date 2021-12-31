@@ -90,7 +90,7 @@
 
 > 🏆 2,015 Contributions in the Year 2021
  > 
-> 📦 20.3 kB Used in GitHub's Storage 
+> 📦 20.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -159,7 +159,7 @@ AutoHotkey               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yutkat/yutkat/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/12/2021
+ Last Updated on 31/12/2021
 <!--END_SECTION:waka-->
 </details>
 
