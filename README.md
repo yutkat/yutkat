@@ -69,14 +69,14 @@
 
 #### Development Environment
 
-- Favorite Languages: Rust
+- Favorite Languages: Rust, Svelte
 - Editor: Neovim
 - Shell: zsh
-- Terminal: Alacritty, tmux
-- OS: ArchLinux(i3-gaps/sway)
+- Terminal: wezterm
+- OS: ArchLinux(sway/i3-gaps)
 - PC: Thinkpad X1 Carbon
 - Keyboard: HHKB hybrid
-- Mouse: SlimBlade
+- Mouse: GameBall
 - Smartphone: Pixel4a
 
 #### Analysis
