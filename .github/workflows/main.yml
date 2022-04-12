@@ -66,4 +66,4 @@ jobs:
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://zenn.dev/yutakatay/feed,"
+          feed_list: "https://zenn.dev/yutakatay/feed"
