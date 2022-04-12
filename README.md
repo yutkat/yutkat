@@ -172,4 +172,9 @@ TypeScript               2 repos             ██░░░░░░░░░�
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ワシの使っているNeovimプラグインは200個近くあるぞ](https://zenn.dev/yutakatay/articles/neovim-plugins-2022)
+- [zshとNeovimの簡単な起動速度の測定方法](https://zenn.dev/yutakatay/articles/zsh-neovim-speedcheck)
+- [Neovimプラグインで不具合報告するのに便利な再現環境用minimal vimrcの作り方](https://zenn.dev/yutakatay/articles/neovim-minimal-config)
+- [zshでもIDEみたいに自動補完したい！zsh-autocompleteの紹介](https://zenn.dev/yutakatay/articles/zsh-autocomplete-intro)
+- [alacritty+tmuxもいいけど、weztermがすごい件](https://zenn.dev/yutakatay/articles/wezterm-intro)
 <!-- BLOG-POST-LIST:END -->
