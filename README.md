@@ -89,13 +89,13 @@
 <details>
   <summary>Other Statics</summary>
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C169%20hrs%2059%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 3,713 Contributions in the Year 2022
+> 🏆 3,716 Contributions in the Year 2022
  > 
-> 📦 24.1 kB Used in GitHub's Storage 
+> 📦 24.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -115,12 +115,12 @@
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.27% 
+Monday       51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.7% 
 Tuesday      59 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.0% 
 Wednesday    70 commits     █████░░░░░░░░░░░░░░░░░░░░   20.17% 
 Thursday     47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.54% 
 Friday       54 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.56% 
-Saturday     29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36% 
+Saturday     31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.93% 
 Sunday       35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.09%
 
 ```
@@ -164,7 +164,7 @@ AutoHotkey               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yutkat/yutkat/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/08/2022 19:33:26 UTC
+ Last Updated on 20/08/2022 19:33:29 UTC
 <!--END_SECTION:waka-->
 </details>
 
