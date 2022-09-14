@@ -93,9 +93,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 4,008 Contributions in the Year 2022
+> 🏆 4,017 Contributions in the Year 2022
  > 
-> 📦 24.9 kB Used in GitHub's Storage 
+> 📦 25.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -103,45 +103,6 @@
  > 
 > 🔑 2 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    60 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.57% 
-🌆 Daytime    100 commits    ███████░░░░░░░░░░░░░░░░░░   27.62% 
-🌃 Evening    127 commits    ████████░░░░░░░░░░░░░░░░░   35.08% 
-🌙 Night      75 commits     █████░░░░░░░░░░░░░░░░░░░░   20.72%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       60 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.57% 
-Tuesday      54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.92% 
-Wednesday    61 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.85% 
-Thursday     52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.36% 
-Friday       34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.39% 
-Saturday     40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.05% 
-Sunday       61 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.85%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Lua** 
 
 ```text
@@ -159,7 +120,7 @@ AutoHotkey               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yutkat/yutkat/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/09/2022 19:35:14 UTC
+ Last Updated on 14/09/2022 19:36:12 UTC
 <!--END_SECTION:waka-->
 </details>
 
