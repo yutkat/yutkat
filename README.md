@@ -16,6 +16,9 @@
   <a href="https://stackoverflow.com/users/5720201/yutkat">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
+</p>
+
+<p align="left">
   <a href="https://zenn.dev/yutakatay">
     <img height="20" src="https://zenn.badge.nikaera.com/s/yutakatay/likes" />
   </a>
@@ -26,10 +29,10 @@
     <img height="20" src="https://zenn.badge.nikaera.com/s/yutakatay/articles" />
   </a>
   <a href="http://qiita.com/yutkat">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/posts.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/contributions.svg" />
   </a>
   <a href="http://qiita.com/yutkat">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/contributions.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/posts.svg" />
   </a>
 </p>
 
