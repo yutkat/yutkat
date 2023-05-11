@@ -91,6 +91,7 @@
 
 <details>
   <summary>Other Statics</summary>
+
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%2C362%20hrs%2012%20mins-blue)
 
