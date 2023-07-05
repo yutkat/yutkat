@@ -4,9 +4,6 @@
   <a href="https://github.com/yutkat/yutkat/">
     <img src="https://komarev.com/ghpvc/?username=yutkat" alt="yutkat" />
   </a>
-  <a href="https://user-badge.committers.top/japan/yutkat">
-    <img height="20" src="https://user-badge.committers.top/japan/yutkat.svg" />
-  </a>
   <a href="http://twitter.com/yutkat">
     <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
   </a>
@@ -18,6 +15,15 @@
   </a>
   <a href="https://stackoverflow.com/users/5720201/yutkat">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
+  </a>
+</p>
+
+<p align="left"> 
+  <a href="https://gitstar-ranking.com/yutkat">
+    <img height="20" src="https://img.shields.io/endpoint?label=star ranking&url=https%3A%2F%2Fgitstar-ranking.com%2Fusers%2Fyutkat%2Fshields" />
+  </a>
+  <a href="https://user-badge.committers.top/japan/yutkat">
+    <img height="20" src="https://user-badge.committers.top/japan/yutkat.svg" />
   </a>
 </p>
 
