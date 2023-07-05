@@ -4,6 +4,9 @@
   <a href="https://github.com/yutkat/yutkat/">
     <img src="https://komarev.com/ghpvc/?username=yutkat" alt="yutkat" />
   </a>
+  <a href="https://user-badge.committers.top/japan/yutkat">
+    <img height="20" src="https://user-badge.committers.top/japan/yutkat.svg" />
+  </a>
   <a href="http://twitter.com/yutkat">
     <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
   </a>
@@ -20,13 +23,13 @@
 
 <p align="left">
   <a href="https://zenn.dev/yutakatay">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/yutakatay/likes" />
+    <img height="20" src="https://badgen.org/img/zenn/yutakatay/likes?style=plastic" alt="Likes" />
   </a>
   <a href="https://zenn.dev/yutakatay">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/yutakatay/followers" />
+    <img height="20" src="https://badgen.org/img/zenn/yutakatay/followers?style=plastic" alt="Followers" />
   </a>
   <a href="https://zenn.dev/yutakatay">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/yutakatay/articles" />
+    <img height="20" src="https://badgen.org/img/zenn/yutakatay/articles?style=plastic" alt="Articles" />
   </a>
   <a href="http://qiita.com/yutkat">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/contributions.svg" />
