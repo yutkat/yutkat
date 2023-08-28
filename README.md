@@ -66,6 +66,10 @@
   </a>
 </p>
 
+<div align="center">
+  <img alt="Visitor Stats" src="https://widgetbite.com/stats/yutkat"/>  
+</div>
+
 <!-- ![Metrics](https://metrics.lecoq.io/yutkat) -->
 ![Metrics](https://github.com/yutkat/yutkat/blob/main/github-metrics.svg)
 
