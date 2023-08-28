@@ -66,7 +66,7 @@
   </a>
 </p>
 
-<div align="center">
+<div align="left">
   <img alt="Visitor Stats" src="https://widgetbite.com/stats/yutkat"/>  
 </div>
 
