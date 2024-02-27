@@ -64,6 +64,9 @@
   <a href="https://www.quora.com/profile/Yutkat" target="blank">
     <img src="https://simpleicons.org/icons/quora.svg" alt="yutkat" height="30" width="30" />
   </a>
+  <a href="https://ossinsight.io/analyze/yutkat" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/svg-icon@0.8.2/dist/svg/mfglabs/eye.svg" alt="yutkat" height="30" width="30" />
+  </a>
 </p>
 
 <div align="left">
