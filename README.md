@@ -4,26 +4,29 @@
   <a href="https://github.com/yutkat/yutkat/">
     <img src="https://komarev.com/ghpvc/?username=yutkat" alt="yutkat" />
   </a>
-  <a href="http://x.com/yutkat">
-    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?style=flat" />
-  </a>
   <a href="https://github.com/yutkat">
     <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://github.com/yutkat">
+    <img height="20" src="https://img.shields.io/github/stars/yutkat?logo=github&style=flat" />
+  </a>
+  <a href="https://gitstar-ranking.com/yutkat">
+    <img height="20" src="https://img.shields.io/endpoint?label=star ranking&url=https%3A%2F%2Fgitstar-ranking.com%2Fusers%2Fyutkat%2Fshields" />
+  </a>
+  <a href="https://user-badge.committers.top/japan/yutkat">
+    <img height="20" src="https://user-badge.committers.top/japan/yutkat.svg" />
+  </a>
+</p>
+
+<p align="left"> 
+  <a href="http://x.com/yutkat">
+    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?style=flat&logo=x" />
   </a>
   <a href="https://www.reddit.com/user/yutkat">
     <img height="20" src="https://img.shields.io/reddit/user-karma/combined/yutkat?label=Reddit&logo=reddit&style=flat" />
   </a>
   <a href="https://stackoverflow.com/users/5720201/yutkat">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
-  </a>
-</p>
-
-<p align="left"> 
-  <a href="https://gitstar-ranking.com/yutkat">
-    <img height="20" src="https://img.shields.io/endpoint?label=star ranking&url=https%3A%2F%2Fgitstar-ranking.com%2Fusers%2Fyutkat%2Fshields" />
-  </a>
-  <a href="https://user-badge.committers.top/japan/yutkat">
-    <img height="20" src="https://user-badge.committers.top/japan/yutkat.svg" />
   </a>
 </p>
 
