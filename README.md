@@ -4,8 +4,8 @@
   <a href="https://github.com/yutkat/yutkat/">
     <img src="https://komarev.com/ghpvc/?username=yutkat" alt="yutkat" />
   </a>
-  <a href="http://twitter.com/yutkat">
-    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
+  <a href="http://x.com/yutkat">
+    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?style=flat" />
   </a>
   <a href="https://github.com/yutkat">
     <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
@@ -49,8 +49,8 @@
   <a href="https://yutkat.github.io/">
     <img alt="homepage" width="30px" src="https://simpleicons.org/icons/homeassistantcommunitystore.svg" />
   </a>
-  <a href="https://twitter.com/yutkat">
-    <img alt="twitter" width="30px" src="https://simpleicons.org/icons/twitter.svg" />
+  <a href="https://x.com/yutkat">
+    <img alt="x" width="30px" src="https://simpleicons.org/icons/x.svg" />
   </a>
   <a href="https://qiita.com/yutkat">
     <img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" />
@@ -73,35 +73,54 @@
   <img alt="Visitor Stats" src="https://widgetbite.com/stats/yutkat"/>  
 </div>
 
-<!-- ![Metrics](https://metrics.lecoq.io/yutkat) -->
-![Metrics](https://github.com/yutkat/yutkat/blob/main/github-metrics.svg)
+[![](https://raw.githubusercontent.com/yutkat/yutkat/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/yutkat/yutkat/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/yutkat/yutkat/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutkat&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yutkat&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
+[![](https://github-readme-activity-graph.vercel.app/graph?username=yutkat&theme=github)](https://github-readme-activity-graph.vercel.app/graph?username=yutkat&theme=github)
 [![trophy](https://github-profile-trophy.vercel.app/?username=yutkat&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-[![](https://raw.githubusercontent.com/yutkat/yutkat/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/yutkat/yutkat/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/yutkat/yutkat/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://activity-graph.herokuapp.com/graph?username=yutkat&theme=github)](https://activity-graph.herokuapp.com/graph?username=yutkat&theme=github)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=yutkat&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=yutkat&theme=dark)
 
-### Development Environment
+### OSS Insight
 
-- Favorite Languages: Rust, Svelte
-- Editor: Neovim
-- Shell: zsh
-- Terminal: wezterm
-- OS: ArchLinux(sway/i3-gaps)
-- PC: Thinkpad X1 Carbon
-- Keyboard: HHKB hybrid
-- Mouse: GameBall
-- Smartphone: Pixel4a
+<!-- Copy-paste in your Readme.md file -->
 
-### Analysis
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=8683947" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=8683947&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @yutkat" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=8683947&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=8683947&activity_type=all" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=8683947&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
+    <img alt="@yutkat's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=8683947&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+### Metrics
+
+<details>
+  <summary>GitHub Metrics</summary>
+
+<!-- ![Metrics](https://metrics.lecoq.io/yutkat) -->
+![Metrics](https://github.com/yutkat/yutkat/blob/main/github-metrics.svg)
+
+</details>
+
+### Wakatime Analysis
 
 <!-- <img height="150" src="https://github.com/yutkat/yutkat/blob/master/images/stat.svg" alt="Alternative Text"/> -->
 
@@ -189,13 +208,3 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 [![Metrics](https://github.com/yutkat/yutkat/actions/workflows/main.yml/badge.svg)](https://github.com/yutkat/yutkat/actions/workflows/main.yml)
-
-### Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [中二病エンジニアを支える技術](https://zenn.dev/yutakatay/articles/chuunibyou-engineer)
-- [Neovimプラグインをまともに選定できるリストを作った](https://zenn.dev/yutakatay/articles/neovim-pluginlist)
-- [ワシの使っているNeovimプラグインは200個近くあるぞ](https://zenn.dev/yutakatay/articles/neovim-plugins-2022)
-- [zshとNeovimの簡単な起動速度の測定方法](https://zenn.dev/yutakatay/articles/zsh-neovim-speedcheck)
-- [Neovimプラグインで不具合報告するのに便利な再現環境用minimal vimrcの作り方](https://zenn.dev/yutakatay/articles/neovim-minimal-config)
-<!-- BLOG-POST-LIST:END -->
