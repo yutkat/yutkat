@@ -11,7 +11,7 @@
     <img height="20" src="https://img.shields.io/github/stars/yutkat?logo=github&style=flat" />
   </a>
   <a href="https://gitstar-ranking.com/yutkat">
-    <img height="20" src="https://img.shields.io/endpoint?label=star ranking&url=https%3A%2F%2Fgitstar-ranking.com%2Fusers%2Fyutkat%2Fshields" />
+    <img height="20" src="https://img.shields.io/endpoint?label=star ranking&logo=github&style=flat&url=https%3A%2F%2Fgitstar-ranking.com%2Fusers%2Fyutkat%2Fshields" />
   </a>
   <a href="https://user-badge.committers.top/japan/yutkat">
     <img height="20" src="https://user-badge.committers.top/japan/yutkat.svg" />
