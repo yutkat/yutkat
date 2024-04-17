@@ -126,7 +126,7 @@
   <summary>GitHub Metrics</summary>
 
 <!-- ![Metrics](https://metrics.lecoq.io/yutkat) -->
-![Metrics](https://github.com/yutkat/yutkat/blob/main/github-metrics.svg)
+[![Metrics](https://github.com/yutkat/yutkat/blob/main/github-metrics.svg)](https://github.com/lowlighter/metrics)
 
 </details>
 
@@ -218,8 +218,8 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 ### This page status
 
-<div align="left">
+<a href="https://widgetbite.com" align="left">
   <img alt="Visitor Stats" src="https://widgetbite.com/stats/yutkat"/>  
-</div>
+</a>
 
 [![Metrics](https://github.com/yutkat/yutkat/actions/workflows/main.yml/badge.svg)](https://github.com/yutkat/yutkat/actions/workflows/main.yml)
