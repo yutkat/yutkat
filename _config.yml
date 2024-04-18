@@ -1,1 +1,6 @@
-theme: jekyll-theme-midnight
+title: Development Statistics
+description: Development Statistics
+logo: https://avatars.githubusercontent.com/u/8683947
+show_downloads: false
+google_analytics: G-LFN9ZWJFXX
+theme: jekyll-theme-minimal
