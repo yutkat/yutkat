@@ -83,7 +83,7 @@
   </a>
 </p>
 
-[![](https://raw.githubusercontent.com/yutkat/yutkat/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yutkat&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://github-readme-activity-graph.vercel.app/graph?username=yutkat&theme=github&custom_title=Contribution%20Graph)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ### Languages
