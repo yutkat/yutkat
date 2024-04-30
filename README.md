@@ -79,21 +79,21 @@
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yutkat&count_private=true&show_icons=true&show_icons=true&theme=onedark&custom_title=GitHub%20Stats&hide_border=true" />
+    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yutkat&count_private=true&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&theme=transparent" />
   </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img alt="github stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=yutkat&theme=nightfox&hide_border=true" />
+    <img alt="github stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=yutkat&theme=transparent&hide_border=true" />
   </a>
 </p>
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yutkat&theme=ayu_mirage)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-readme-activity-graph.vercel.app/graph?username=yutkat&theme=github&custom_title=Contribution%20Graph&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yutkat&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=yutkat&theme=github-dark-dimmed&custom_title=Contribution%20Graph&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ### Languages
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yutkat&theme=ayu_mirage)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yutkat&theme=ayu_mirage)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=yutkat&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yutkat&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yutkat&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=yutkat&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### OSS Insight
 
