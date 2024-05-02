@@ -24,7 +24,7 @@ jobs:
           ref: ${{ github.head_ref }}
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: curl -s https://raw.githubusercontent.com/gayanvoice/top-github-users/main/cache/japan.json | jq 'to_entries | .[] | select(.value.login == "yutkat")' > github-followed-ranking.json
+        run: curl -s https://raw.githubusercontent.com/gayanvoice/top-github-users/main/cache/japan.json | jq 'to_entries | .[] | select(.value.login == "yutkat")' > assets/github-followed-ranking.json
 
       - name: Archive production artifacts
         uses: actions/upload-artifact@v4
