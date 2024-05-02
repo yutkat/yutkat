@@ -6,7 +6,7 @@
   <a href="https://github.com/yutkat"><img height="20" src="https://img.shields.io/github/stars/yutkat?logo=github&style=flat" /></a>
   <a href="https://gitstar-ranking.com/yutkat"><img height="20" src="https://img.shields.io/endpoint?label=star ranking&logo=github&style=flat&url=https%3A%2F%2Fgitstar-ranking.com%2Fusers%2Fyutkat%2Fshields" /></a>
   <a href="https://user-badge.committers.top/japan/yutkat"><img height="20" src="https://user-badge.committers.top/japan/yutkat.svg" /></a>
-  <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/japan.md"><img height="20" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyutkat%2Fyutkat%2Fmain%2Fassets%2Fgithub-followed-ranking.json&query=key&prefix=%23&label=followed%20rank&color=brightgreen" /></a>
+  <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/japan.md"><img height="20" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyutkat%2Fyutkat%2Fmain%2Fassets%2Fgithub-followed-ranking.json&query=key&prefix=%23&label=followed%20rank&color=brightgreen&logo=github" /></a>
 </p>
 
 <p align="left"> 
