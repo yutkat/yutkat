@@ -19,6 +19,9 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+      - uses: actions/checkout@v2.4.0
+        with:
+          ref: ${{ github.head_ref }}
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: curl -s https://raw.githubusercontent.com/gayanvoice/top-github-users/main/cache/japan.json | jq 'to_entries | .[] | select(.value.login == "yutkat")' > github-followed-ranking.json
@@ -29,3 +32,19 @@ jobs:
           name: github-followed-ranking
           path: |
             github-followed-ranking.json
+
+      - name: Diff
+        id: diff
+        run: |
+          git add -N .
+          git diff --name-only --exit-code
+        continue-on-error: true
+      - name: Commit & Push
+        run: |
+          set -x
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add .
+          git commit --author=. -m 'generated'
+          git push
+        if: steps.diff.outcome == 'failure'
