@@ -42,7 +42,7 @@
 </p>
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yutkat&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-readme-activity-graph.vercel.app/graph?username=yutkat&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%20month&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=yutkat&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%2031%20days&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ### Languages
 
