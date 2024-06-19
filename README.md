@@ -24,7 +24,7 @@
 </p>
 
 <p align="left"> 
-  <a href="https://yutkat.github.io/"><img alt="homepage" width="30px" src="https://simpleicons.org/icons/homeassistantcommunitystore.svg" /></a>
+  <a href="https://yutkat.github.io/"><img alt="homepage" width="30px" src="https://cdn.jsdelivr.net/npm/svg-icon@0.8.2/dist/svg/flat/home.svg" /></a>
   <a href="https://x.com/yutkat"><img alt="x" width="30px" src="https://simpleicons.org/icons/x.svg" /></a>
   <a href="https://zenn.dev/yutakatay"><img alt="qiita" width="30px" src="https://simpleicons.org/icons/zenn.svg" /></a>
   <a href="https://qiita.com/yutkat"><img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" /></a>
