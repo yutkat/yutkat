@@ -96,15 +96,15 @@
   <summary>Other Statics</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C664%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C671%20hrs%202%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-474.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-474.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 74.1 kB Used in GitHub's Storage 
+> 📦 74.8 kB Used in GitHub's Storage 
  > 
-> 🏆 174 Contributions in the Year 2025
+> 🏆 178 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -112,6 +112,47 @@
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3754 commits        ████████░░░░░░░░░░░░░░░░░   32.48 % 
+🌆 Daytime                3722 commits        ████████░░░░░░░░░░░░░░░░░   32.20 % 
+🌃 Evening                2539 commits        █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+🌙 Night                  1543 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   1881 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Tuesday                  1896 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Wednesday                1774 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Thursday                 1851 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Friday                   1692 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Saturday                 1152 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Sunday                   1312 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Other                    29 hrs 58 mins      ███████████████████████░░   90.62 % 
+sh                       1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Markdown                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+
+🔥 Editors: 
+Chrome                   31 hrs 42 mins      ████████████████████████░   95.88 % 
+Zsh                      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Neovim                   28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+
+💻 Operating System: 
+Linux                    33 hrs 4 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Lua** 
 
 ```text
@@ -129,7 +170,7 @@ Vim Script               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yutkat/yutkat/main/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2025 19:36:47 UTC
+ Last Updated on 06/02/2025 19:36:41 UTC
 <!--END_SECTION:waka-->
 </details>
 
