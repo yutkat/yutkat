@@ -1,5 +1,5 @@
 {
-  "key": 262,
+  "key": 255,
   "value": {
     "login": "yutkat",
     "name": "Yuta Katayama",
@@ -7,8 +7,8 @@
     "location": "Tokyo, Japan",
     "company": "undefined value",
     "twitterUsername": "yutkat",
-    "followers": 521,
+    "followers": 547,
     "privateContributions": 0,
-    "publicContributions": 2922
+    "publicContributions": 3124
   }
 }
