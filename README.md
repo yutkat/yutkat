@@ -19,8 +19,8 @@
   <a href="https://zenn.dev/yutakatay"><img height="20" src="https://badgen.org/img/zenn/yutakatay/likes?style=plastic" alt="Likes" /></a>
   <a href="https://zenn.dev/yutakatay"><img height="20" src="https://badgen.org/img/zenn/yutakatay/followers?style=plastic" alt="Followers" /></a>
   <a href="https://zenn.dev/yutakatay"><img height="20" src="https://badgen.org/img/zenn/yutakatay/articles?style=plastic" alt="Articles" /></a>
-  <a href="http://qiita.com/yutkat"><img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/contributions.svg" /></a>
-  <a href="http://qiita.com/yutkat"><img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/posts.svg" /></a>
+  <a href="https://qiita.com/yutkat"><img src="https://badgen.org/img/qiita/yutkat/contributions?style=flat" alt="Contributions" /></a>
+  <a href="https://qiita.com/yutkat"><img src="https://badgen.org/img/qiita/yutkat/articles?style=flat" alt="Articles" /></a>
 </p>
 
 <p align="left"> 
