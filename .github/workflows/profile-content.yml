@@ -1,6 +1,4 @@
-# This is a basic workflow to help you get started with Actions
-
-name: GitHub Followed Ranking
+name: Profile Content Update
 
 on:
   repository_dispatch:
@@ -10,20 +8,20 @@ on:
     # Runs at 4am JST
     - cron: '20 19 * * *'
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+  refresh:
+    name: Update profile data
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - uses: actions/checkout@v2.4.0
+      - uses: actions/checkout@v5
         with:
           ref: ${{ github.head_ref }}
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
+
+      - name: Update bio table
+        uses: yutkat/bio2markdown-table@v1
+
+      - name: Fetch followed ranking
         run: >
           curl -s https://raw.githubusercontent.com/gayanvoice/top-github-users/main/cache/japan.json |
           jq 'to_entries | .[] | select(.value.login == "yutkat")' |
@@ -33,8 +31,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: github-followed-ranking
-          path: |
-            github-followed-ranking.json
+          path: assets/github-followed-ranking.json
 
       - name: Diff
         id: diff
@@ -42,7 +39,9 @@ jobs:
           git add -N .
           git diff --name-only --exit-code
         continue-on-error: true
+
       - name: Commit & Push
+        if: steps.diff.outcome == 'failure'
         run: |
           set -x
           git config user.name github-actions[bot]
@@ -50,4 +49,3 @@ jobs:
           git add .
           git commit --author=. -m 'generated'
           git push
-        if: steps.diff.outcome == 'failure'
