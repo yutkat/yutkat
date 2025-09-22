@@ -10,8 +10,8 @@
 </p>
 
 <p align="left"> 
-  <a href="http://x.com/yutkat"><img height="20" src="https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fr.jina.ai%2Fhttp%3A%2F%2Fx.com%2Fyutkat&search=%28%5Cd%5B%5Cd%2C%5C.%5D*%29%5Cs%2BFollowers&replace=%241&flags=ims&label=followers&logo=x&color=blue" /></a>
-  <a href="http://x.com/yutkat"><img height="20" src="https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fr.jina.ai%2Fhttp%3A%2F%2Fx.com%2Fyutkat&search=%28%5Cd%5B%5Cd%2C%5C.%5D*%29%5Cs%2Bposts&replace=%241&flags=ims&label=posts&logo=x&color=blue" /></a>
+  <a href="https://r.jina.ai/https://x.com/yutkat"><img height="20" src="https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fr.jina.ai%2Fhttp%3A%2F%2Fx.com%2Fyutkat&search=%28%5Cd%5B%5Cd%2C%5C.%5D*%29%5Cs%2BFollowers&replace=%241&flags=ims&label=followers&logo=x&color=blue" /></a>
+  <a href="https://r.jina.ai/https://x.com/yutkat"><img height="20" src="https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fr.jina.ai%2Fhttp%3A%2F%2Fx.com%2Fyutkat&search=%28%5Cd%5B%5Cd%2C%5C.%5D*%29%5Cs%2Bposts&replace=%241&flags=ims&label=posts&logo=x&color=blue" /></a>
   <a href="https://bsky.app/profile/yutkat.github.io"><img src="https://badgen.org/img/bluesky/yutkat.github.io/followers?style=flat" alt="Followers" /></a>
   <a href="https://bsky.app/profile/yutkat.github.io"><img src="https://badgen.org/img/bluesky/yutkat.github.io/posts?style=flat" alt="Posts" /></a>
   <a href="https://www.reddit.com/user/yutkat"><img height="20" src="https://img.shields.io/reddit/user-karma/combined/yutkat?label=Reddit&logo=reddit&style=flat" /></a>
