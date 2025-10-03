@@ -111,15 +111,13 @@
   <summary>Other Statics</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C899%20hrs%2024%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 207.7 kB Used in GitHub's Storage 
+> 📦 208.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,937 Contributions in the Year 2025
+> 🏆 1,940 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -127,45 +125,6 @@
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                9079 commits        ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
-🌆 Daytime                13265 commits       █████████░░░░░░░░░░░░░░░░   34.46 % 
-🌃 Evening                10410 commits       ███████░░░░░░░░░░░░░░░░░░   27.04 % 
-🌙 Night                  5744 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   6159 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Tuesday                  6495 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Wednesday                6329 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Thursday                 6244 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Friday                   5695 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Saturday                 3588 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Sunday                   3988 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Other                    13 hrs 29 mins      ████████████████████░░░░░   80.33 % 
-YAML                     2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-
-🔥 Editors: 
-Chrome                   16 hrs 16 mins      ████████████████████████░   96.91 % 
-Neovim                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-
-💻 Operating System: 
-Linux                    16 hrs 48 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Lua** 
 
 ```text
@@ -183,7 +142,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yutkat/yutkat/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2025 19:40:06 UTC
+ Last Updated on 03/10/2025 19:40:02 UTC
 <!--END_SECTION:waka-->
 </details>
 
