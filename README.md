@@ -148,6 +148,15 @@ JavaScript               1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 </details>
 
+### GitHub Follower History
+
+
+<details>
+  <summary>Other Statics</summary>
+<!--START_SECTION:github_follower_history-->
+<!--END_SECTION:github_follower_history-->
+</details>
+
 ### This page status
 
 <a href="https://widgetbite.com" align="left">

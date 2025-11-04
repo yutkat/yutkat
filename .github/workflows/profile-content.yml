@@ -21,6 +21,16 @@ jobs:
       - name: Update bio table
         uses: yutkat/bio2markdown-table@v2
 
+      - name: Generate Follower History
+        uses: yutkat/github-follower-history@v1
+        with:
+          country: japan
+          username: yutkat
+          output-csv: /tmp/follower_history.csv
+          target-file: README.md
+          start-date: 2023-06-17
+          max-labels: 15
+
       - name: Fetch followed ranking
         run: >
           curl -s https://raw.githubusercontent.com/gayanvoice/top-github-users/main/cache/japan.json |
