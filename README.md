@@ -40,6 +40,14 @@
 ### Development Environment
 
 <!--START_SECTION:github_profile_bio-->
+| | |
+|---:|:---|
+| **Role** | Programmer |
+| **Editor** | Neovim |
+| **Shell** | zsh |
+| **Terminal** | WezTerm |
+| **OS** | NixOS, ArchLinux(Hyprland), Android |
+| **PC** | Thinkpad, Lemur Pro, HHKB Hybrid , GameBall |
 <!--END_SECTION:github_profile_bio-->
 
 ### Recent Activities
