@@ -154,6 +154,13 @@ JavaScript               1 repo              █░░░░░░░░░░�
 <details>
   <summary>Other Statics</summary>
 <!--START_SECTION:github_follower_history-->
+```mermaid
+xychart-beta
+  title "GitHub Followers History"
+  x-axis ["23-06","23-08","23-10","23-12","24-03","24-05","24-07","24-10","24-12","25-03","25-06","25-09"]
+  y-axis "Followers"
+  line [342,356,376,389,404,437,460,497,521,547,568,599]
+```
 <!--END_SECTION:github_follower_history-->
 </details>
 
