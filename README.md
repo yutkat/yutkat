@@ -150,9 +150,6 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 ### GitHub Follower History
 
-
-<details>
-  <summary>Other Statics</summary>
 <!--START_SECTION:github_follower_history-->
 ```mermaid
 xychart-beta
@@ -162,7 +159,6 @@ xychart-beta
   line [342,356,376,389,404,437,460,497,521,547,568,599]
 ```
 <!--END_SECTION:github_follower_history-->
-</details>
 
 ### This page status
 
