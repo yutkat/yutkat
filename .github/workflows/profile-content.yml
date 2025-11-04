@@ -19,7 +19,7 @@ jobs:
           ref: ${{ github.head_ref }}
 
       - name: Update bio table
-        uses: yutkat/bio2markdown-table@v1
+        uses: yutkat/bio2markdown-table@v2
 
       - name: Fetch followed ranking
         run: >
