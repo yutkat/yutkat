@@ -206,8 +206,6 @@ xychart-beta
 
 ### This page status
 
-<a href="https://widgetbite.com" align="left">
-  <img alt="Visitor Stats" src="https://widgetbite.com/stats/yutkat"/>  
-</a>
+[![Yuta Katayama profile views](https://u8views.com/api/v1/github/profiles/8683947/views/day-week-month-total-count.svg)](https://u8views.com/github/yutkat)
 
 [![Metrics](https://github.com/yutkat/yutkat/actions/workflows/main.yml/badge.svg)](https://github.com/yutkat/yutkat/actions/workflows/main.yml)
