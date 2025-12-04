@@ -53,7 +53,8 @@
 ### Recent Activities
 
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yutkat&count_private=true&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&theme=transparent" /></a>
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yutkat&count_private=true&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&theme=transparent" /></a> -->
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="github stats" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yutkat&theme=transparent" /></a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="github stats" height="150px" src="https://streak-stats.demolab.com/?user=yutkat&theme=transparent&hide_border=true" /></a>
 </p>
 
@@ -89,10 +90,11 @@
 </a>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
+<!--
 ### Achievement
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yutkat&no-frame=true&no-bg=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 ### Metrics
 
