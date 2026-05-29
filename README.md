@@ -115,13 +115,15 @@
   <summary>Other Statics</summary>
 
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.30%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%2C142%20hrs%2026%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.31%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 230.0 kB Used in GitHub's Storage 
+> 📦 230.6 kB Used in GitHub's Storage 
  > 
-> 🏆 961 Contributions in the Year 2026
+> 🏆 964 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -129,6 +131,48 @@
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                9616 commits        ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
+🌆 Daytime                13616 commits       █████████░░░░░░░░░░░░░░░░   34.46 % 
+🌃 Evening                10517 commits       ███████░░░░░░░░░░░░░░░░░░   26.61 % 
+🌙 Night                  5767 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   6327 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Tuesday                  6646 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Wednesday                6475 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Thursday                 6386 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Friday                   5834 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Saturday                 3718 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Sunday                   4130 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Other                    29 hrs 42 mins      ████████████████████░░░░░   78.72 % 
+Git                      2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+sh                       1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Nix                      1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Markdown                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+
+🔥 Editors: 
+Chrome                   33 hrs 3 mins       ██████████████████████░░░   87.60 % 
+Neovim                   4 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Unknown Editor           12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+
+💻 Operating System: 
+Linux                    37 hrs 44 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Lua** 
 
 ```text
@@ -146,7 +190,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yutkat/yutkat/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 20:27:23 UTC
+ Last Updated on 29/05/2026 20:26:22 UTC
 <!--END_SECTION:waka-->
 </details>
 
