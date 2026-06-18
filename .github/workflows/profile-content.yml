@@ -20,6 +20,8 @@ jobs:
 
       - name: Update bio table
         uses: yutkat/bio2markdown-table@v2
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
 
       - name: Generate Follower History
         uses: yutkat/github-follower-history@v1
