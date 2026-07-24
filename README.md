@@ -119,9 +119,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 244.8 kB Used in GitHub's Storage 
+> 📦 223.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,442 Contributions in the Year 2026
+> 🏆 1,456 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -129,48 +129,6 @@
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                9769 commits        ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
-🌆 Daytime                13722 commits       █████████░░░░░░░░░░░░░░░░   34.46 % 
-🌃 Evening                10554 commits       ███████░░░░░░░░░░░░░░░░░░   26.50 % 
-🌙 Night                  5777 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   6377 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-Tuesday                  6680 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Wednesday                6501 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Thursday                 6434 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Friday                   5889 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Saturday                 3768 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Sunday                   4173 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Other                    29 hrs 27 mins      ███████████████████░░░░░░   75.24 % 
-YAML                     2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-Lua                      2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-Markdown                 1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-Bash                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-
-🔥 Editors: 
-Chrome                   33 hrs 4 mins       █████████████████████░░░░   84.49 % 
-Claude Code              5 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Neovim                   41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-
-💻 Operating System: 
-Linux                    39 hrs 8 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Lua** 
 
 ```text
@@ -188,7 +146,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yutkat/yutkat/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 20:08:27 UTC
+ Last Updated on 24/07/2026 20:11:37 UTC
 <!--END_SECTION:waka-->
 </details>
 
