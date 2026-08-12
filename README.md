@@ -1,3 +1,5 @@
+
+
 ## 👋 Hi! I'm yutkat
 
 <p align="left"> 
@@ -112,7 +114,7 @@
 <!-- <img height="150" src="https://github.com/yutkat/yutkat/blob/master/images/stat.svg" alt="Alternative Text"/> -->
 
 <details>
-  <summary>Other Statics</summary>
+  <summary>Other Statistics</summary>
 
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C665%20hrs%2040%20mins-blue?style=flat)
