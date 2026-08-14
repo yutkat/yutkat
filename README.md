@@ -115,7 +115,7 @@
   <summary>Other Statics</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C665%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C665%20hrs%2055%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-48%20hrs%2050%20mins-blue?style=flat)
 
@@ -123,9 +123,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 226.2 kB Used in GitHub's Storage 
+> 📦 227.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,567 Contributions in the Year 2026
+> 🏆 1,569 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -136,10 +136,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                11547 commits       ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+🌞 Morning                11549 commits       ███████░░░░░░░░░░░░░░░░░░   26.08 % 
 🌆 Daytime                15290 commits       █████████░░░░░░░░░░░░░░░░   34.52 % 
-🌃 Evening                11320 commits       ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
-🌙 Night                  6133 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+🌃 Evening                11319 commits       ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
+🌙 Night                  6132 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
@@ -148,8 +148,8 @@ Monday                   7161 commits        ████░░░░░░░�
 Tuesday                  7344 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
 Wednesday                7139 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
 Thursday                 7125 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Friday                   6573 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Saturday                 4215 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Friday                   6574 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Saturday                 4214 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
 Sunday                   4733 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
 ```
 
@@ -160,42 +160,22 @@ Sunday                   4733 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    25 hrs 48 mins      ████████████████████████░   94.91 % 
-TOML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-sh                       24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-Nix                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Other                    26 hrs 29 mins      ████████████████████████░   94.53 % 
+sh                       52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+TOML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 🔥 Editors: 
-Chrome                   26 hrs 43 mins      █████████████████████████   98.31 % 
-Claude Code              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-Zsh                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-Neovim                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Chrome                   27 hrs 51 mins      █████████████████████████   99.45 % 
+Zsh                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 💻 Operating System: 
-Linux                    27 hrs 11 mins      █████████████████████████   100.00 % 
+Linux                    28 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 mins (1.13%)
-
-✍️ 39 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 2,037,877 Input Tokens, 34,171 Output Tokens
-
-💵 $22.09 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 4 AI Prompts
-
-Fable                    54 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 44 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Lua** 
@@ -215,7 +195,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yutkat/yutkat/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 20:16:36 UTC
+ Last Updated on 14/08/2026 20:17:14 UTC
 <!--END_SECTION:waka-->
 </details>
 
