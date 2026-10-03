@@ -29,10 +29,10 @@
 <p align="left"> 
   <a href="https://yutkat.github.io/"><img alt="homepage" width="30px" src="https://cdn.jsdelivr.net/npm/svg-icon@0.8.2/dist/svg/flat/home.svg" /></a>
   <a href="https://x.com/yutkat"><img alt="x" width="30px" src="https://simpleicons.org/icons/x.svg" /></a>
-  <a href="https://zenn.dev/yutakatay"><img alt="qiita" width="30px" src="https://simpleicons.org/icons/zenn.svg" /></a>
+  <a href="https://zenn.dev/yutakatay"><img alt="zenn" width="30px" src="https://simpleicons.org/icons/zenn.svg" /></a>
   <a href="https://qiita.com/yutkat"><img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" /></a>
-  <a href="https://dev.to/yutkat" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="yutkat" height="30" width="30" /></a>
-  <a href="https://stackoverflow.com/users/yutkat" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="yutkat" height="30" width="30" /></a>
+  <a href="https://dev.to/yutkat" target="blank"><img src="https://simpleicons.org/icons/devdotto.svg" alt="dev.to" height="30" width="30" /></a>
+  <a href="https://stackoverflow.com/users/yutkat" target="blank"><img src="https://simpleicons.org/icons/stackoverflow.svg" alt="stackoverflow" height="30" width="30" /></a>
   <a href="https://www.quora.com/profile/Yutkat" target="blank"><img src="https://simpleicons.org/icons/quora.svg" alt="yutkat" height="30" width="30" /></a>
   <a href="https://ossinsight.io/analyze/yutkat" target="blank"><img src="https://cdn.jsdelivr.net/npm/svg-icon@0.8.2/dist/svg/mfglabs/eye.svg" alt="yutkat" height="30" width="30" /></a>
 </p>
@@ -54,17 +54,22 @@
 
 <p align="left">
   <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yutkat&count_private=true&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&theme=transparent" /></a> -->
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="github stats" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yutkat&theme=transparent" /></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="github stats" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yutkat&theme=transparent" /></a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="github stats" height="150px" src="https://streak-stats.demolab.com/?user=yutkat&theme=transparent&hide_border=true" /></a>
 </p>
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yutkat&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-readme-activity-graph.vercel.app/graph?username=yutkat&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yutkat&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yutkat&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true&theme=github-dark-dimmed" />
+    <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yutkat&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true&bg_color=ffffff&color=1f2328&title_color=1f2328&line=0969da&point=1f2328&area=true&area_color=0969da" />
+  </picture>
+</a>
 
 ### Languages
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yutkat&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yutkat&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yutkat&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yutkat&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=yutkat&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### OSS Insight
@@ -103,7 +108,7 @@
 
 <!-- ![Metrics](https://metrics.lecoq.io/yutkat) -->
 
-[![Metrics](https://github.com/yutkat/yutkat/blob/main/images/github-metrics.svg)](https://github.com/lowlighter/metrics)
+[![Metrics](images/github-metrics.svg)](https://github.com/lowlighter/metrics)
 
 </details>
 
