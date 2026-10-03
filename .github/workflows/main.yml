@@ -19,7 +19,8 @@ jobs:
       #    GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
       #  with:
       #    USERNAME: ${{ github.repository_owner }}
-      - uses: anmol098/waka-readme-stats@master
+      # Local patched copy until anmol098/waka-readme-stats#679 is merged; then revert to anmol098/waka-readme-stats@master
+      - uses: ./.github/actions/waka-readme-stats
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
