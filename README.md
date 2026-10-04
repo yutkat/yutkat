@@ -115,13 +115,11 @@
 
 <!-- ![Metrics](https://metrics.lecoq.io/yutkat) -->
 
-[![Metrics](images/github-metrics.svg)](https://github.com/lowlighter/metrics)
+[![Metrics](assets/github-metrics.svg)](https://github.com/lowlighter/metrics)
 
 </details>
 
 ### Wakatime Analysis
-
-<!-- <img height="150" src="https://github.com/yutkat/yutkat/blob/master/images/stat.svg" alt="Alternative Text"/> -->
 
 <details>
   <summary>Other Statics</summary>

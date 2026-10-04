@@ -2,7 +2,7 @@
 
 ## Project Structure & Module Organization
 
-`README.md` is both the GitHub profile README and the GitHub Pages index, so changes must render well in both places. Blocks between `<!--START_SECTION:...-->` and `<!--END_SECTION:...-->` markers are rewritten by workflows; never edit inside them by hand. The site uses `jekyll-theme-minimal` configured in `_config.yml`, overridden by `_layouts/default.html` and `assets/css/style.scss`; keep `{% seo %}` and `{% include head-custom.html %}` (Google Analytics via `_includes/head-custom-google-analytics.html`) in the layout. Static imagery and generated metrics live in `assets/`, `charts/`, and `images/`; treat files such as `images/github-metrics.svg` and `assets/bar_graph.png` as generated outputs.
+`README.md` is both the GitHub profile README and the GitHub Pages index, so changes must render well in both places. Blocks between `<!--START_SECTION:...-->` and `<!--END_SECTION:...-->` markers are rewritten by workflows; never edit inside them by hand. The site uses `jekyll-theme-minimal` configured in `_config.yml`, overridden by `_layouts/default.html` and `assets/css/style.scss`; keep `{% seo %}` and `{% include head-custom.html %}` (Google Analytics via `_includes/head-custom-google-analytics.html`) in the layout. `assets/` holds site resources and every generated output: `assets/github-metrics.svg` (`lowlighter/metrics`), `assets/bar_graph.png` (waka-readme-stats; path fixed by that action), and `assets/github-followed-ranking.json`. Treat these generated files as outputs, not sources.
 
 ## Build, Test, and Development Commands
 
@@ -18,7 +18,7 @@ After pushing, confirm the `Deploy Jekyll with GitHub Pages dependencies preinst
 
 ## Commit & Pull Request Guidelines
 
-Recent commits trend toward `Updated with Dev Metrics` or `Update images/... - [Skip GitHub Action]`; emulate that specificity by naming the primary artifact touched and noting automation skips when applicable. Group unrelated edits into separate commits. Pull requests should include a short summary, any related issue links, and before/after screenshots when visual sections (badges, charts) change. Mention required secrets (e.g., `GH_TOKEN`, `WAKATIME_API_KEY`) if your change depends on them so reviewers can confirm the workflows remain green.
+Recent commits trend toward `Updated with Dev Metrics` or `Update assets/github-metrics.svg - [Skip GitHub Action]`; emulate that specificity by naming the primary artifact touched and noting automation skips when applicable. Group unrelated edits into separate commits. Pull requests should include a short summary, any related issue links, and before/after screenshots when visual sections (badges, charts) change. Mention required secrets (e.g., `GH_TOKEN`, `WAKATIME_API_KEY`) if your change depends on them so reviewers can confirm the workflows remain green.
 
 ## Automation & Secrets
 
