@@ -18,7 +18,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
       #- uses: vn7n24fzkq/github-profile-summary-cards@release
       #  env:
       #    GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
