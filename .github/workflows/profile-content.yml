@@ -8,6 +8,11 @@ on:
     # Runs at 4am JST
     - cron: '20 19 * * *'
 
+# Serialize jobs that commit to README to avoid push races
+concurrency:
+  group: profile-readme
+  cancel-in-progress: false
+
 jobs:
   refresh:
     name: Update profile data

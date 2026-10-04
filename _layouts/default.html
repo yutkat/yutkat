@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="site-header">
+        {% if site.logo %}
+          <img class="avatar" src="{{ site.logo | relative_url }}" alt="{{ site.github.owner_name }}" width="72" height="72">
+        {% endif %}
+        <div class="site-heading">
+          <h1><a href="{{ "/" | relative_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+          <p class="site-meta">
+            <a href="{{ site.github.owner_url }}">@{{ site.github.owner_name }}</a>
+            <span aria-hidden="true">&middot;</span>
+            <span>Updated {{ site.time | date: "%Y-%m-%d" }}</span>
+          </p>
+        </div>
+        <a class="button" href="{{ site.github.owner_url }}">GitHub Profile</a>
+      </header>
+
+      <main class="content">
+        {{ content }}
+      </main>
+
+      <footer class="site-footer">
+        <p>Built from <a href="{{ site.github.repository_url }}">{{ site.github.repository_nwo }}</a> on GitHub Pages</p>
+      </footer>
+    </div>
+
+    <script type="module">
+      // GitHub renders ```mermaid blocks natively; Pages needs mermaid.js
+      const blocks = document.querySelectorAll(".language-mermaid");
+      if (blocks.length) {
+        const { default: mermaid } = await import("https://cdn.jsdelivr.net/npm/mermaid@12.1.0/dist/mermaid.esm.min.mjs");
+        for (const block of blocks) {
+          const pre = document.createElement("pre");
+          pre.className = "mermaid";
+          pre.textContent = block.querySelector("code").textContent;
+          block.replaceWith(pre);
+        }
+        const dark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+        mermaid.initialize({ startOnLoad: false, theme: dark ? "dark" : "default" });
+        await mermaid.run();
+      }
+    </script>
+  </body>
+</html>
