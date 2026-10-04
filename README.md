@@ -44,16 +44,14 @@
 <!-- markdownlint-capture -->
 <!-- markdownlint-disable -->
 <!--START_SECTION:github_profile_bio-->
-
-|              |                                             |
-| -----------: | :------------------------------------------ |
-|     **Role** | Programmer                                  |
-|   **Editor** | Neovim                                      |
-|    **Shell** | zsh                                         |
-| **Terminal** | WezTerm                                     |
-|       **OS** | NixOS, ArchLinux(Hyprland), Android         |
-|       **PC** | Thinkpad, Lemur Pro, HHKB Hybrid , GameBall |
-
+| | |
+|---:|:---|
+| **Role** | Programmer |
+| **Editor** | Neovim |
+| **Shell** | zsh |
+| **Terminal** | WezTerm |
+| **OS** | NixOS, ArchLinux(Hyprland), Android |
+| **PC** | Thinkpad, Lemur Pro, HHKB Hybrid , GameBall |
 <!--END_SECTION:github_profile_bio-->
 <!-- markdownlint-restore -->
 
@@ -237,7 +235,6 @@ Last Updated on 03/10/2026 22:26:29 UTC
 <!-- markdownlint-capture -->
 <!-- markdownlint-disable -->
 <!--START_SECTION:github_follower_history-->
-
 ```mermaid
 xychart-beta
   title "GitHub Followers History"
@@ -245,7 +242,6 @@ xychart-beta
   y-axis "Followers"
   line [342,356,376,389,404,437,460,497,521,547,568,599,628,648,660]
 ```
-
 <!--END_SECTION:github_follower_history-->
 <!-- markdownlint-restore -->
 
