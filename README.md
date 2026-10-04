@@ -1,21 +1,23 @@
 ## yutkat
 
-<p align="left"> 
+<p align="left">
   <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=yutkat" alt="yutkat" /></a>
-  <a href="https://github.com/yutkat?tab=followers"><img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" /></a>
-  <a href="https://github.com/yutkat?tab=repositories&sort=stargazers"><img height="20" src="https://img.shields.io/github/stars/yutkat?logo=github&style=flat" /></a>
-  <a href="https://gitstar-ranking.com/yutkat"><img height="20" src="https://img.shields.io/endpoint?label=star%20ranking&logo=github&style=flat&url=https%3A%2F%2Fgitstar-ranking.com%2Fusers%2Fyutkat%2Fshields" /></a>
-  <a href="https://user-badge.committers.top/japan/yutkat"><img height="20" src="https://user-badge.committers.top/japan/yutkat.svg" /></a>
-  <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/japan.md"><img height="20" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyutkat%2Fyutkat%2Fmain%2Fassets%2Fgithub-followed-ranking.json&query=key&prefix=%23&label=followed%20rank&color=brightgreen&logo=github" /></a>
+  <a href="https://github.com/yutkat?tab=followers"><img alt="GitHub followers" height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" /></a>
+  <a href="https://github.com/yutkat?tab=repositories&sort=stargazers"><img alt="GitHub stars" height="20" src="https://img.shields.io/github/stars/yutkat?logo=github&style=flat" /></a>
+</p>
+<p align="left">
+  <a href="https://gitstar-ranking.com/yutkat"><img alt="Gitstar ranking" height="20" src="https://img.shields.io/endpoint?label=star%20ranking&logo=github&style=flat&url=https%3A%2F%2Fgitstar-ranking.com%2Fusers%2Fyutkat%2Fshields" /></a>
+  <a href="https://user-badge.committers.top/japan/yutkat"><img alt="committers.top rank" height="20" src="https://user-badge.committers.top/japan/yutkat.svg" /></a>
+  <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/japan.md"><img alt="Followed rank in Japan" height="20" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyutkat%2Fyutkat%2Fmain%2Fassets%2Fgithub-followed-ranking.json&query=key&prefix=%23&label=followed%20rank&color=brightgreen&logo=github" /></a>
 </p>
 
-<p align="left"> 
-  <a href="https://markdown.new/https://x.com/yutkat"><img height="20" src="https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fmarkdown.new%2Fhttp%3A%2F%2Fx.com%2Fyutkat&search=%28%5Cd%5B%5Cd%2C%5C.%5D*%29%5Cs*Followers&replace=%241&label=followers&logo=x&color=blue" /></a>
-  <a href="https://markdown.new/https://x.com/yutkat"><img height="20" src="https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fmarkdown.new%2Fhttp%3A%2F%2Fx.com%2Fyutkat&search=%28%5Cd%5B%5Cd%2C%5C.%5D*%29%5Cs%2Bposts&replace=%241&flags=ims&label=posts&logo=x&color=blue" /></a>
+<p align="left">
+  <a href="https://markdown.new/https://x.com/yutkat"><img alt="X followers" height="20" src="https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fmarkdown.new%2Fhttp%3A%2F%2Fx.com%2Fyutkat&search=%28%5Cd%5B%5Cd%2C%5C.%5D*%29%5Cs*Followers&replace=%241&label=followers&logo=x&color=blue" /></a>
+  <a href="https://markdown.new/https://x.com/yutkat"><img alt="X posts" height="20" src="https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fmarkdown.new%2Fhttp%3A%2F%2Fx.com%2Fyutkat&search=%28%5Cd%5B%5Cd%2C%5C.%5D*%29%5Cs%2Bposts&replace=%241&flags=ims&label=posts&logo=x&color=blue" /></a>
   <a href="https://bsky.app/profile/yutkat.github.io"><img src="https://badgen.org/img/bluesky/yutkat.github.io/followers?style=flat" alt="Followers" /></a>
   <a href="https://bsky.app/profile/yutkat.github.io"><img src="https://badgen.org/img/bluesky/yutkat.github.io/posts?style=flat" alt="Posts" /></a>
-  <a href="https://www.reddit.com/user/yutkat"><img height="20" src="https://img.shields.io/reddit/user-karma/combined/yutkat?label=Reddit&logo=reddit&style=flat" /></a>
-  <a href="https://stackoverflow.com/users/5720201/yutkat"><img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" /></a>
+  <a href="https://www.reddit.com/user/yutkat"><img alt="Reddit karma" height="20" src="https://img.shields.io/reddit/user-karma/combined/yutkat?label=Reddit&logo=reddit&style=flat" /></a>
+  <a href="https://stackoverflow.com/users/5720201/yutkat"><img alt="Stack Overflow reputation" height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" /></a>
 </p>
 
 <p align="left">
@@ -26,7 +28,7 @@
   <a href="https://qiita.com/yutkat"><img src="https://badgen.org/img/qiita/yutkat/articles?style=flat" alt="Articles" /></a>
 </p>
 
-<p align="left"> 
+<p align="left">
   <a href="https://yutkat.github.io/"><img alt="homepage" width="30px" src="https://cdn.jsdelivr.net/npm/svg-icon@0.8.2/dist/svg/flat/home.svg" /></a>
   <a href="https://x.com/yutkat"><img alt="x" width="30px" src="https://simpleicons.org/icons/x.svg" /></a>
   <a href="https://zenn.dev/yutakatay"><img alt="zenn" width="30px" src="https://simpleicons.org/icons/zenn.svg" /></a>
@@ -39,16 +41,21 @@
 
 ### Development Environment
 
+<!-- markdownlint-capture -->
+<!-- markdownlint-disable -->
 <!--START_SECTION:github_profile_bio-->
-| | |
-|---:|:---|
-| **Role** | Programmer |
-| **Editor** | Neovim |
-| **Shell** | zsh |
-| **Terminal** | WezTerm |
-| **OS** | NixOS, ArchLinux(Hyprland), Android |
-| **PC** | Thinkpad, Lemur Pro, HHKB Hybrid , GameBall |
+
+|              |                                             |
+| -----------: | :------------------------------------------ |
+|     **Role** | Programmer                                  |
+|   **Editor** | Neovim                                      |
+|    **Shell** | zsh                                         |
+| **Terminal** | WezTerm                                     |
+|       **OS** | NixOS, ArchLinux(Hyprland), Android         |
+|       **PC** | Thinkpad, Lemur Pro, HHKB Hybrid , GameBall |
+
 <!--END_SECTION:github_profile_bio-->
+<!-- markdownlint-restore -->
 
 ### Recent Activities
 
@@ -58,19 +65,19 @@
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="github stats" height="150px" src="https://streak-stats.demolab.com/?user=yutkat&theme=transparent&hide_border=true" /></a>
 </p>
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yutkat&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yutkat&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yutkat&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true&theme=github-dark-dimmed" />
-    <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yutkat&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true&bg_color=ffffff&color=1f2328&title_color=1f2328&line=0969da&point=1f2328&area=true&area_color=0969da" />
-  </picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yutkat&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true&theme=github-dark-dimmed" />
+<img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yutkat&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true&bg_color=ffffff&color=1f2328&title_color=1f2328&line=0969da&point=1f2328&area=true&area_color=0969da" />
+</picture>
 </a>
 
 ### Languages
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yutkat&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yutkat&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=yutkat&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yutkat&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yutkat&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yutkat&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### OSS Insight
 
@@ -119,69 +126,72 @@
 <details>
   <summary>Other Statics</summary>
 
+<!-- markdownlint-capture -->
+<!-- markdownlint-disable -->
   <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C696%20hrs%2014%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-60%20hrs%2010%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.45%20million%20lines%20of%20code-blue?style=flat)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 232.2 kB Used in GitHub's Storage 
- > 
+> 📦 232.2 kB Used in GitHub's Storage
+>
 > 🏆 1,857 Contributions in the Year 2026
- > 
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 128 Public Repositories 
- > 
-> 🔑 5 Private Repositories 
- > 
-**I'm an Early 🐤** 
+>
+> 📜 128 Public Repositories
+>
+> 🔑 5 Private Repositories
+
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning                11650 commits       ███████░░░░░░░░░░░░░░░░░░   26.16 % 
-🌆 Daytime                15386 commits       █████████░░░░░░░░░░░░░░░░   34.55 % 
-🌃 Evening                11358 commits       ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
-🌙 Night                  6136 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+🌞 Morning                11650 commits       ███████░░░░░░░░░░░░░░░░░░   26.16 %
+🌆 Daytime                15386 commits       █████████░░░░░░░░░░░░░░░░   34.55 %
+🌃 Evening                11358 commits       ██████░░░░░░░░░░░░░░░░░░░   25.51 %
+🌙 Night                  6136 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.78 %
 ```
-📅 **I'm Most Productive on Tuesday** 
+
+📅 **I'm Most Productive on Tuesday**
 
 ```text
-Monday                   7174 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Tuesday                  7401 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-Wednesday                7176 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Thursday                 7147 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Friday                   6605 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Saturday                 4247 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Sunday                   4780 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Monday                   7174 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.11 %
+Tuesday                  7401 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
+Wednesday                7176 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.11 %
+Thursday                 7147 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
+Friday                   6605 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.83 %
+Saturday                 4247 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 %
+Sunday                   4780 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.73 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Tokyo
 
-💬 Programming Languages: 
-Other                    43 hrs 3 mins       ███████████████████████░░   92.71 % 
-Markdown                 2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-Bash                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-Git                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+💬 Programming Languages:
+Other                    43 hrs 3 mins       ███████████████████████░░   92.71 %
+Markdown                 2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+Bash                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Git                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 
-🔥 Editors: 
-Chrome                   45 hrs 49 mins      █████████████████████████   98.69 % 
-Claude Code              33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-Neovim                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+🔥 Editors:
+Chrome                   45 hrs 49 mins      █████████████████████████   98.69 %
+Claude Code              33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Neovim                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 
-💻 Operating System: 
-Linux                    46 hrs 25 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Linux                    46 hrs 25 mins      █████████████████████████   100.00 %
 ```
 
-🤖 **AI Coding This Week** 
+🤖 **AI Coding This Week**
 
 ```text
 ⏱ AI Coding Time: 36 mins (1.3%)
@@ -194,9 +204,9 @@ Linux                    46 hrs 25 mins      ███████████�
 
 🧠 7 AI Sessions, 20 AI Prompts
 
-Opus                     250 lines           █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     250 lines           █████████████████████████   100.00 %
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
@@ -205,30 +215,31 @@ Codex-Cli                0 lines             ░░░░░░░░░░░�
 🚀 High AI Trust — 8.42% of changed lines were hand-edited
 ```
 
-**I Mostly Code in Lua** 
+**I Mostly Code in Lua**
 
 ```text
-Lua                      25 repos            ███████████░░░░░░░░░░░░░░   44.64 % 
-Shell                    10 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Nix                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Lua                      25 repos            ███████████░░░░░░░░░░░░░░   44.64 %
+Shell                    10 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.86 %
+Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+Nix                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 ```
-
-
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/yutkat/yutkat/main/assets/bar_graph.png)
 
-
- Last Updated on 03/10/2026 22:26:29 UTC
+Last Updated on 03/10/2026 22:26:29 UTC
 <!--END_SECTION:waka-->
+<!-- markdownlint-restore -->
 </details>
 
 ### GitHub Follower History
 
+<!-- markdownlint-capture -->
+<!-- markdownlint-disable -->
 <!--START_SECTION:github_follower_history-->
+
 ```mermaid
 xychart-beta
   title "GitHub Followers History"
@@ -236,7 +247,9 @@ xychart-beta
   y-axis "Followers"
   line [342,356,376,389,404,437,460,497,521,547,568,599,628,648,660]
 ```
+
 <!--END_SECTION:github_follower_history-->
+<!-- markdownlint-restore -->
 
 ### This page status
 

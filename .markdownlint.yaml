@@ -1,0 +1,16 @@
+# README.md doubles as the GitHub profile, which relies on inline HTML for layout
+MD033:
+  allowed_elements:
+    - a
+    - details
+    - img
+    - p
+    - picture
+    - source
+    - summary
+
+# Badge and widget URLs cannot be wrapped
+MD013: false
+
+# The profile intentionally starts with an h2 name heading
+MD041: false
