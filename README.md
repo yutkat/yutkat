@@ -48,10 +48,10 @@
 |---:|:---|
 | **Role** | Programmer |
 | **Editor** | Neovim |
-| **Shell** | zsh |
+| **Shell** | zsh, nushell |
+| **AI Agent** | Codex, ClaudeCode |
 | **Terminal** | WezTerm |
-| **OS** | NixOS, ArchLinux(Hyprland), Android |
-| **PC** | Thinkpad, Lemur Pro, HHKB Hybrid , GameBall |
+| **OS** | NixOS, ArchLinux(Hyprland) |
 <!--END_SECTION:github_profile_bio-->
 <!-- markdownlint-restore -->
 
