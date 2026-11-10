@@ -24,15 +24,6 @@ jobs:
       #    GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
       #  with:
       #    USERNAME: ${{ github.repository_owner }}
-      # Local patched copy until anmol098/waka-readme-stats#679 is merged; then revert to anmol098/waka-readme-stats@master
-      - uses: ./.github/actions/waka-readme-stats
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_UPDATED_DATE: "True"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_PROJECTS: "False"
-          SHOW_PROFILE_VIEWS: "False"
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_TOKEN }}
@@ -47,19 +38,7 @@ jobs:
           plugin_achievements_secrets: yes # Display unlocked secrets achievements
           plugin_achievements_ignored: octonaut # Hide octonaut achievement
           plugin_achievements_limit: 0 # Display all unlocked achievement matching threshold and secrets params
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }} # Required
-          plugin_wakatime_days: 7 # Display last week stats
-          plugin_wakatime_sections: time, projects, projects-graphs # Display time and projects sections, along with projects graphs
-          plugin_wakatime_limit: 4 # Show 4 entries per graph
           plugin_topics: yes
           plugin_topics_sort: stars # Sort by most starred topics
           plugin_topics_mode: mastered # Display icons instead of labels
           plugin_topics_limit: 0 # Disable limitations
-      # - uses: avinal/Profile-Readme-WakaTime@master
-      #   with:
-      #     WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-      #     GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-      # - uses: athul/waka-readme@master
-      #   with:
-      #     WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
