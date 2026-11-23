@@ -36,7 +36,6 @@
   <a href="https://dev.to/yutkat" target="blank"><img src="https://simpleicons.org/icons/devdotto.svg" alt="dev.to" height="30" width="30" /></a>
   <a href="https://stackoverflow.com/users/yutkat" target="blank"><img src="https://simpleicons.org/icons/stackoverflow.svg" alt="stackoverflow" height="30" width="30" /></a>
   <a href="https://www.quora.com/profile/Yutkat" target="blank"><img src="https://simpleicons.org/icons/quora.svg" alt="yutkat" height="30" width="30" /></a>
-  <a href="https://ossinsight.io/analyze/yutkat" target="blank"><img src="https://cdn.jsdelivr.net/npm/svg-icon@0.8.2/dist/svg/mfglabs/eye.svg" alt="yutkat" height="30" width="30" /></a>
 </p>
 
 ### Development Environment
@@ -77,29 +76,6 @@
 [![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yutkat&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yutkat&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### OSS Insight
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=8683947" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=8683947&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @yutkat" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=8683947&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=8683947&activity_type=all" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=8683947&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
-    <img alt="@yutkat's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=8683947&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 <!--
 ### Achievement
 
